@@ -24,10 +24,10 @@ Proje dosyalarını indirdikten sonra, aşağıdaki adımları takip ederek kola
 
 Proje, kullanıcıya basit bir arayüz sunar. Kullanıcı, istediği yılı seçerek o yılın resmi tatillerini görebilir ve istediği formatta dışa aktarabilir.
 
-![Arayüz Görüntüsü](![deneme 1 05 2024 21_15_43](https://github.com/senanurceylan/resmi-tatil/assets/147407796/f3658427-f6a1-4b77-a078-c8f19a3eeff3)
+![deneme 1 05 2024 21_15_43](https://github.com/senanurceylan/resmi-tatil/assets/147407796/f3658427-f6a1-4b77-a078-c8f19a3eeff3)
 )
-![Arayüz Görüntüsü](![yazi txt - Not Defteri 1 05 2024 21_15_55](https://github.com/senanurceylan/resmi-tatil/assets/147407796/659a6c17-2760-404a-bb81-de89b6a63e71)
- )
+![yazi txt - Not Defteri 1 05 2024 21_15_55](https://github.com/senanurceylan/resmi-tatil/assets/147407796/659a6c17-2760-404a-bb81-de89b6a63e71)
+ 
 
 ## Destek ve Katkıda Bulunma
 
